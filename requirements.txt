@@ -1,6 +1,6 @@
 streamlit
 torch
 facenet-pytorch
-opencv-python==4.5.3.56
+opencv-python
 numpy
 git+https://github.com/jacobgil/pytorch-grad-cam.git
